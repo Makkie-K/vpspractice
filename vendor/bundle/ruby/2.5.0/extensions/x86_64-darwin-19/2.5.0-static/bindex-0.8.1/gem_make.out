@@ -1,0 +1,15 @@
+current directory: /Users/katsutamakiko/rails/vpspractice/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/katsutamakiko/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20200803-79759-swiite.rb extconf.rb
+creating Makefile
+
+current directory: /Users/katsutamakiko/rails/vpspractice/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/katsutamakiko/rails/vpspractice/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/katsutamakiko/rails/vpspractice/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200803-79759-oe2los/skiptrace/internal
